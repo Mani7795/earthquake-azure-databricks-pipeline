@@ -1,4 +1,4 @@
-# Data Engineering Tutorial: From Raw Data to Azure Synapse Analytics
+# Data Engineering
 
 This guide walks you through creating a scalable data pipeline in Azure, transforming raw data into meaningful insights using Databricks, Azure Data Factory (ADF), and Synapse Analytics.
 
